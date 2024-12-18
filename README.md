@@ -39,7 +39,7 @@ This project is a RESTful API built with Node.js, Express, and MongoDB. It provi
 - PORT: The port on which the server will run.
 - MONGODB_URI: The URI for connecting to the MongoDB database.
 - JWTPRIVATEKEY: The private key for signing JWT tokens.
-- SALT_ROUNDS: The number of salt rounds for hashing passwords.
+- SALT: The number of salt rounds for hashing passwords.
 
 ## API Endpoints
 ### User Endpoints
